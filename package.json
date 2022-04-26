@@ -1,0 +1,25 @@
+{
+  "name": "sen-academy-warehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "predeploy": "npm run build",
+    "deploy": "echo warehouse.sentre.so >> ./docs/CNAME && gh-pages -d build",
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DescartesNetwork/sen-academy-warehouse.git"
+  },
+  "author": "Tu Phan <tuphan@descartes.network>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DescartesNetwork/sen-academy-warehouse/issues"
+  },
+  "homepage": "https://github.com/DescartesNetwork/sen-academy-warehouse#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

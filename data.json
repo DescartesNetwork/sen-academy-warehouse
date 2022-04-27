@@ -3,6 +3,20 @@
     "vi": "Vi",
     "en": "Eng"
   },
+  "386271463469": {
+    "createdAt": 1651044472739,
+    "updatedAt": 1651044472739,
+    "thumbnail": "",
+    "category": [],
+    "en": {
+      "contents": "# Jobs Opportunity\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. World map*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. The same world map*\n\nTest: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.",
+      "title": "Blockchain Overview"
+    },
+    "vn": {
+      "contents": "# Cơ hội nghề nghiệp\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. Bản đồ thế giới*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. Bản đồ thế giới tương tự*\n\nKiểm thử: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.",
+      "title": "Toàn cảnh blockchain"
+    }
+  },
   "675051513086": {
     "createdAt": 1650971499311,
     "updatedAt": 1650971499311,

@@ -1,16 +1,16 @@
 {
   "createdAt": 1651114236809,
-  "updatedAt": 1651633296085,
+  "updatedAt": 1651811200647,
   "thumbnail": "https://lh3.googleusercontent.com/LC-KSgoBprEUveCqmQnx8nhyVZBo4d2GkC9R6U7CTXgXXrjNUli7eajRWa7bY4hdG3EhMW569AT760wnFZxGRA4WJAsKG42s98AfMKCUFHSzw3d3ncdNSvb4duOGQvcazilvQU16",
   "category": [
     "Developer"
   ],
   "en": {
     "contents": "# Jobs Opportunity\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. World map*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. The same world map*\n\nTest: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.",
-    "title": ""
+    "title": "Jobs Opportunity"
   },
   "vn": {
     "contents": "# Cơ hội nghề nghiệp\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. Bản đồ thế giới*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. Bản đồ thế giới tương tự*\n\nKiểm thử: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.",
-    "title": ""
+    "title": "Cơ hội nghề nghiệp"
   }
 }

@@ -178,24 +178,6 @@
       "contents": "## Hình 1. Bản đồ thế giới\n\n![worldmap](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)"
     }
   },
-  "739403395833": {
-    "createdAt": 1651114236809,
-    "updatedAt": 1652243050187,
-    "thumbnail": "https://lh3.googleusercontent.com/LC-KSgoBprEUveCqmQnx8nhyVZBo4d2GkC9R6U7CTXgXXrjNUli7eajRWa7bY4hdG3EhMW569AT760wnFZxGRA4WJAsKG42s98AfMKCUFHSzw3d3ncdNSvb4duOGQvcazilvQU16",
-    "category": [
-      "Developer",
-      "dev"
-    ],
-    "en": {
-      "contents": "# Jobs Opportunity\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. World map*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. The same world map*\n\nTest: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.\n\n```ts\nanchor init demo_spl\ncd demo_spl\n```",
-      "title": "Jobs Opportunity"
-    },
-    "vn": {
-      "contents": "# Cơ hội nghề nghiệp\n![World map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.1. Bản đồ thế giới*\n\n![The same world map](https://cdn.statcdn.com/Infographic/images/normal/27069.jpeg)\n*Fig.2. Bản đồ thế giới tương tự*\n\nKiểm thử: Set the committer timezone offset field. This is the difference, in minutes, from the current timezone to UTC. Default is `(new Date()).getTimezoneOffset()`.\n\n```ts\nanchor init demo_spl\ncd demo_spl\n```",
-      "title": "Cơ hội nghề nghiệp"
-    },
-    "id": "739403395833"
-  },
   "897967347413": {
     "createdAt": 1652348619759,
     "updatedAt": 1652754274130,

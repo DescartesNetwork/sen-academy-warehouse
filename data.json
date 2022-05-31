@@ -257,24 +257,5 @@
       "title": "Quản lý State của Dapp"
     },
     "id": "975759747453"
-  },
-  "982929425247": {
-    "createdAt": 1653986108994,
-    "updatedAt": 1653986329947,
-    "thumbnail": "https://i.imgur.com/PwnXsV2.png",
-    "category": [
-      "news",
-      "web3camp",
-      "dev",
-      "user"
-    ],
-    "en": {
-      "contents": "# uyu\n\n![hinh](https://i.imgur.com/PwnXsV2.png)\n\nUSA\n",
-      "title": "USA"
-    },
-    "vn": {
-      "contents": "# uyu\n\n![hinh](https://i.imgur.com/PwnXsV2.png)\n\nViet",
-      "title": "Viet"
-    }
   }
 }

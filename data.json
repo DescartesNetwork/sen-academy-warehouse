@@ -261,6 +261,25 @@
     },
     "id": "423086673347"
   },
+  "514332848691": {
+    "createdAt": 1656669815949,
+    "updatedAt": 1656681174667,
+    "thumbnail": "https://storage.googleapis.com/picboi-39298.appspot.com/final/bNpcclXp_1000x800",
+    "category": [
+      "user",
+      "sentre",
+      "acceleration era",
+      "sentre v3"
+    ],
+    "en": {
+      "contents": "We announced a brief site close on June 30 to Sentizens with a hint of Sentre Version 3.0 on the way. So exactly what kind of upgrade will be in this version?\n</br>\n<p>Explore Sentre V3 here: <a>https://hub.sentre.io/</a></p>\n<H1>New Feature Corner</H1>\n<p>To help Sentizens easily find our updates, we added a <b>New Feature</b> card.</p></br>\n<img style=\"max-width:1024px;width:100%;display:block;margin:auto;\" src=\"https://storage.googleapis.com/picboi-39298.appspot.com/final/fzsaBCgU_1000x800\" alt=“new-feature-card”/>\n</br>\n<p>Simply go to SenAsset and check the bottom left corner. You'll see the magic ✨</p></br>\n<H1>Token Sweeper</H1>\n<p>Now you can reclaim your renting fee in SOL for unused/closed account(s)!</p></br>\n<img style=\"max-width:1024px;width:100%;display:block;margin:auto;\" src=\"https://storage.googleapis.com/picboi-39298.appspot.com/final/xkZaqpkH_1000x800\" alt=“token-sweeper”/>\n</br>\n<p>All accounts with 0 token is applicable for renting fee reclaim. Simply head to the Token Sweeper, choose those accounts and press 🧹Sweep!</p></br>\n<H1>Asset Category</H1>\n<p>To help you better identify and manage assets, we added a category:</p></br>\n<img style=\"max-width:1024px;width:100%;display:block;margin:auto;\" src=\"https://storage.googleapis.com/picboi-39298.appspot.com/final/q8cHloyd_1000x800\" alt=“asset-category”/>\n</br>\n<p>Now you can easily separate tokens from NFTs, and move your assets across chains through the Wormhole Portal Bridge!</p></br>\n<H1>Context Menu</H1>\n<p>Pinning your DApp is easier than ever! Simply right-click on your chosen DApp and a <b>context menu</b> will show up:</p></br>\n<img style=\"max-width:1024px;width:100%;display:block;margin:auto;\" src=\"https://storage.googleapis.com/picboi-39298.appspot.com/final/5bxqTMSp_1000x800\" alt=“context-menu”/>\n</br>\n<H1>Mint Selection</H1>\n<p>To strengthen user protection and prevent scamming, we now provide verification for legitimate tokens:</p>\n<img style=\"max-width:1024px;width:100%;display:block;margin:auto;\" src=\"https://storage.googleapis.com/picboi-39298.appspot.com/final/6ZqnUdNi_1000x800\" alt=“token-verification”/>\n</br>\n<p>A small blue tick icon will be shown next to all verified tokens, as shown in the image.</p></br>\n<p>Your token selection history will also be stored. Instead of scrolling up and down to find that one token you <b>always use</b>, now you can simply choose from your top 8, right below the search box!</p></br>\n<H1>OS Update</H1>\n<p>Last but not least, the OS update!</p></br>\n<p>This is actually the biggest update of Sentre V3. The OS is now packed, which helps developers build their DApps on SenHub with more independence and ease!</p></br>\n<p>Follow us for updates and news:</p>\n<p><a href=\"http://sentre.io/\">Website</a> | <a href=\"https://twitter.com/SentreProtocol\">Twitter</a> | <a href=\"https://discord.gg/VD7UBAp2HN\">Discord</a> | <a href=\"https://t.me/Sentre\">Telegram</a> | <a href=\"http://sentre.medium.com\">Blog</a></p>",
+      "title": "Introducing Sentre V3 - Your optimized toolbox for Solana devs"
+    },
+    "vn": {
+      "title": "",
+      "contents": ""
+    }
+  },
   "534364970474": {
     "createdAt": 1655115254584,
     "updatedAt": 1655286902572,
